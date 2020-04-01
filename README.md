@@ -1,2 +1,2 @@
 # datasciencecoursera
-Foe the coursera project in data science toolbox course
+For the coursera project in data science toolbox course
